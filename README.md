@@ -43,6 +43,6 @@ Entram porque ali, finalmente, se sentem em casa.
 
 *"Cada linha de código escrita hoje carrega o peso do que será construído amanhã."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/gabrieldvurbanski)
 
 </div>
