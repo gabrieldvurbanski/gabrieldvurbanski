@@ -18,11 +18,10 @@ Cada repositório aqui é um passo numa jornada maior.
 ---
 
 **Stack atual**
-HTML · CSS · JavaScript · WordPress · WooCommerce · SQL · Figma
+HTML · CSS · TypeScript · SQL · React · Node.js 
 
 **Construindo agora**
 
-- 🏛️ **Aevum** — agência digital focada em presença premium para negócios locais
 - 🛒 **BLYVE** — e-commerce completo para marca de streetwear gótico/bíblico
 - 📐 Sistemas de identidade visual do zero ao deploy
 
